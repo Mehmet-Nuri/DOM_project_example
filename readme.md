@@ -1,1 +1,1 @@
-![Project DOM](guess.gif);
+![Project DOM](./game.js);
